@@ -1,0 +1,21 @@
+/* Carousel */
+.bg-image1 {
+  object-fit: cover;
+  height: 750px;
+  object-position: 50% 5%;
+}
+
+.bg-image2 {
+  object-fit: cover;
+  height: 750px;
+  object-position: 90% 5%;
+}
+
+/* Footer */
+footer a {
+  text-decoration: none;
+}
+
+.back-top {
+  right: 75px;
+}
